@@ -18,7 +18,7 @@ The hardware setup consists of a solar panel, battery, charge controller, and Ra
 
 Connect & keep in touch:
 
-[Solar Media Collective](https://solar-media.net)
+[Solar Media Collective](https://solar-media.net)   
 Tio’tia:ke/Montreal
 
 

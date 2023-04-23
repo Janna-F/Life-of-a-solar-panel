@@ -26,4 +26,4 @@ Tio’tia:ke/Montreal
 This is a Twine game hosted on a solar-powered Raspberry Pi LAN
 
 
-![alt text](image.jpg)
+![flyer announcing online game called Life of a solar panel](https://raw.githubusercontent.com/Janna-F/Life-of-a-solar-panel/main/images/Flyer.png)

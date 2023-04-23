@@ -24,3 +24,6 @@ Tio’tia:ke/Montreal
 
 ## Tech 
 This is a Twine game hosted on a solar-powered Raspberry Pi LAN
+
+
+![alt text](image.jpg)

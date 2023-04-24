@@ -3,7 +3,7 @@
 ## Janna Frenzel, Hanine El Mir, lee wilkins 
 
 ## Description
-**Game for public engagement about solar infrastructures and energy futures 
+**Game for public engagement about solar infrastructures and energy futures   
 Served from a solar-powered Raspberry Pi LAN**
 
 What might the world look like if our societies, communication technologies, and economies were organized around the energy and cycles of the sun rather than fossil fuels?
